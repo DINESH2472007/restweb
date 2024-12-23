@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:18/12/2024
+## Date:23/12/2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -39,13 +39,13 @@ table.html
     <title>SUPERSTAR foods</title>
     <style>
         body {
-            background-color: rgb(238, 251, 179);
+            background-color: rgb(82, 220, 238);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color:rgb(183, 198, 141);
+            background-color:rgb(91, 136, 226);
             color: white;
             padding: 15px 20px;
             text-align: center;
@@ -53,7 +53,7 @@ table.html
         nav {
             display: flex;
             justify-content: center;
-            background-color:rgb(199, 249, 138);
+            background-color:rgb(84, 94, 166);
         }
         nav a {
             color: white;
@@ -61,10 +61,10 @@ table.html
             padding: 14px 20px;
         }
         nav a:hover {
-            background-color:rgb(209, 248, 94);
+            background-color:rgb(96, 135, 207);
         }
         .hero {
-             background-color:rgb(127, 163, 35);
+             background-color:rgb(18, 132, 145);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -123,45 +123,46 @@ table.html
         <h2>Our Menu</h2>
         <div class="menu">
                 <div class="menu-item">
-                    <img src="Crispy Masala Dosa.jpg" alt="DOSA">
+                    <img src="dosa.avif" alt="DOSA">
                     <h3>DOSA</h3>
-                    <p>Crispy and tasty Dosa </p>
+                    <p>Crispy, golden dosas with a perfect blend of tradition and flavor, served with mouthwatering accompaniments.</p>
                 </div>
                 <div class="menu-item">
-                    <img src="Onam Sadhya _ Onam Sadya Recipes.jpg" alt="MEALS">
-                    <h3>MEALS</h3>
-                    <p> an act or the time of eating a portion of food to satisfy appetite the portion of food eaten at a meal.</p>
+                    <img src="noodles.jpg" alt="NOODLES">
+                    <h3>NOODLES</h3>
+                    <p> Serving delicious, handcrafted noodles with bold flavors and fresh ingredients to satisfy every craving.</p>
                 </div>
                 <div class="menu-item">
-                    <img src="Chai (Spiced Milk Tea) - Fuss Free Cooking.jpg" alt="TEA">
-                    <h3>TEA</h3>
-                    <p>Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis.</p>
+                    <img src="chappati.jpg" alt="CHAPPATI">
+                    <h3>CHAPPATI</h3>
+                    <p>Freshly made, soft, and wholesome chapatis crafted to perfection for a truly authentic taste.</p>
                 </div>
         </div>
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Phone:8491641932</p>
-        <p>Email:superstarfoods@gmail.com</p>
-        <p>Address: 143 rio Street,trumph road ,chennai</p>
+        <p>Phone:8115481154</p>
+        <p>Email:Tuntunfoods@gmail.com</p>
+        <p>Address: 27 middle Street,sigma road ,bangalore</p>
     </section>
     <footer>
-        <p>&copy; SUPERSTAR foods. All Rights Reserved.</p>
+        <p>&copy; DINESH S. All Right Reserved.</p>
     </footer>
 </body>
 </html>
 
-menu.html
 
+
+menu.html
 
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu - Rio Foods</title>
+    <title>Menu - TUNTUN FOODS</title>
     <style>
         body {
-            background-color: rgb(226, 185, 198);
+            background-color: rgb(213, 166, 181);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -227,46 +228,47 @@ menu.html
         <h2>Explore Our Dishes</h2>
         <div class="menu">
             <div class="menu-item">
-                <img src="Crispy Masala Dosa.jpg" alt="DOSA">
+                <img src="dosa.avif" alt="DOSA">
                 <h3>DOSA</h3>
-                <p>Crispy and tasty Dosa </p>
+                <p>Crispy, golden dosas with a perfect blend of tradition and flavor, served with mouthwatering accompaniments. </p>
             </div>
             <div class="menu-item">
-                <img src="Onam Sadhya _ Onam Sadya Recipes.jpg" alt="MEALS">
-                <h3>MEALS</h3>
-                <p> an act or the time of eating a portion of food to satisfy appetite the portion of food eaten at a meal.</p>
+                <img src="noodles.jpg" alt="NOODLES">
+                <h3>NOODLES</h3>
+                <p> Serving delicious, handcrafted noodles with bold flavors and fresh ingredients to satisfy every craving.</p>
             </div>
             <div class="menu-item">
-                <img src="Chai (Spiced Milk Tea) - Fuss Free Cooking.jpg" alt="TEA">
-                <h3>TEA</h3>
-                <p>Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis.</p>
+                <img src="chappati.jpg" alt="CHAPPATI">
+                <h3>CHAPPATI</h3>
+                <p>Freshly made, soft, and wholesome chapatis crafted to perfection for a truly authentic taste.</p>
             </div>
         </div>
     </section>
     <footer>
-        <p>&copy; SUPERSTAR Foods. All Rights Reserved.</p>
-        <p> designed and developed by: SHREE CHANDRU R</p>
+        <p>&copy; TUNTUN FOODS. All Right Reserved.</p>
+        <p> designed and developed by: DINESH S</p>
     </footer>
 </body>
 </html>
 
-index.html
 
+
+index.html
 
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home -SUPERSTAR Foods</title>
+    <title>Home - TUNTUN FOODS</title>
     <style>
         body {
-            background-color: rgb(146, 243, 178);
+            background-color: rgb(79, 164, 210);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: rgb(126, 239, 116);
+            background-color: rgb(116, 206, 239);
             color: white;
             padding: 15px 20px;
             text-align: center;
@@ -274,7 +276,7 @@ index.html
         nav {
             display: flex;
             justify-content: center;
-            background-color: rgb(90, 156, 72);
+            background-color: rgb(82, 170, 187);
         }
         nav a {
             color: white;
@@ -282,7 +284,7 @@ index.html
             padding: 14px 20px;
         }
         nav a:hover {
-            background-color: rgb(230, 236, 115);
+            background-color: rgb(73, 163, 181);
         }
         .welcome {
             display: flex;
@@ -323,7 +325,7 @@ index.html
 </head>
 <body>
     <header>
-        <h1>Welcome to SUPERSTAR FOODS</h1>
+        <h1>Welcome to TUNTUN FOODS</h1>
     </header>
     <nav>
         <a href="home.html">Home</a>
@@ -333,7 +335,7 @@ index.html
     </nav>
     <div class="welcome">
         <h1>Your Destination for Exquisite Cuisine</h1>
-        <p>SUPERSTAR Foods offers a wide range of delicious dishes made from the freshest ingredients. Experience the taste of perfection with every bite!</p>
+        <p>TUNTUN Foods offers a wide range of delicious dishes made from the freshest ingredients. Experience the taste of perfection with every bite!</p>
     </div>
     <section class="features">
         <div class="feature">
@@ -350,11 +352,12 @@ index.html
         </div>
     </section>
     <footer>
-        <p>&copy;SUPERSTAR Foods. All Rights Reserved.</p>
-        <p> designed and developed by:SHREE CHANDRU R</p>
+        <p>&copy;TUNTUN FOODS. All Right Reserved.</p>
+        <p> designed and developed by: DINESH S</p>
     </footer>
 </body>
 </html>
+
 
 contact.html
 
@@ -362,16 +365,16 @@ contact.html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us - SUPERSTAR Foods</title>
+    <title>Contact Us - TUNTUN FOODS</title>
     <style>
         body {
-            background-color: rgb(154, 238, 246);
+            background-color: rgb(213, 171, 80);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: rgb(112, 186, 183);
+            background-color: rgb(186, 174, 112);
             color: white;
             padding: 15px 20px;
             text-align: center;
@@ -379,7 +382,7 @@ contact.html
         nav {
             display: flex;
             justify-content: center;
-            background-color: rgb(24, 121, 151);
+            background-color: rgb(202, 192, 48);
         }
         nav a {
             color: white;
@@ -387,7 +390,7 @@ contact.html
             padding: 14px 20px;
         }
         nav a:hover {
-            background-color: rgb(17, 97, 97);
+            background-color: rgb(191, 194, 47);
         }
         section {
             padding: 20px;
@@ -399,7 +402,7 @@ contact.html
             line-height: 1.6;
         }
         footer {
-            background-color: rgb(6, 178, 241);
+            background-color: rgb(199, 206, 60);
             color: white;
             text-align: center;
             padding: 10px 20px;
@@ -418,17 +421,18 @@ contact.html
     <section>
         <h2>A warm welcome</h2>
         <div class="contact-info">
-            <p><strong>Phone:</strong>8491641932</p>
-            <p><strong>Email:</strong> superstarfoods@gmail.com</p>
-            <p><strong>Address:</strong> 143 middle Street, trumph road , Chennai</p>
+            <p><strong>Phone:</strong>8115481154</p>
+            <p><strong>Email:</strong> Tuntunfoods@gmail.com</p>
+            <p><strong>Address:</strong> 27 middle Street, sigma road , bangalore</p>
             <p>we value your feedback</p>
     </section>
     <footer>
-        <p>&copy; SUPERSTAR Foods. All Rights Reserved.</p>
-        <p> designed and developed by: SHREE CHANDRU R</p>
+        <p>&copy; TUNTUN FOODS. All Right Reserved.</p>
+        <p> designed and developed by: DINESH S</p>
     </footer>
 </body>
 </html>
+
 
 about.html
 
@@ -436,16 +440,16 @@ about.html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - SUPERSTAR FOODS</title>
+    <title>About Us - TUNTUN FOODS</title>
     <style>
         body {
-            background-color: rgb(240, 159, 163);
+            background-color: rgb(191, 193, 94);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: rgb(243, 110, 110);
+            background-color: rgb(83, 171, 16);
             color: white;
             padding: 15px 20px;
             text-align: center;
@@ -453,15 +457,15 @@ about.html
         nav {
             display: flex;
             justify-content: center;
-            background-color: rgb(242, 81, 81);
+            background-color: rgb(145, 185, 87);
         }
         nav a {
-            color: rgb(246, 10, 10);
+            color: rgb(95, 192, 227);
             text-decoration: none;
             padding: 14px 20px;
         }
         nav a:hover {
-            background-color: rgb(181, 19, 19);
+            background-color: rgb(177, 206, 33);
         }
         section {
             padding: 20px;
@@ -474,7 +478,7 @@ about.html
             text-align: justify;
         }
         footer {
-            background-color: rgb(117, 15, 5);
+            background-color: rgb(146, 227, 116);
             color: white;
             text-align: center;
             padding: 10px 20px;
@@ -483,7 +487,7 @@ about.html
 </head>
 <body>
     <header>
-        <h1>About SUPERSTAR Foods</h1>
+        <h1>About TUNTUN Foods</h1>
     </header>
     <nav>
         <a href="menu.html">Menu</a>
@@ -493,13 +497,13 @@ about.html
     <section>
         <h2>Our Story</h2>
         <div class="content">
-            <p>Welcome to SUPERSTAR Foods, where we bring together a love for fresh, delicious meals and a passion for hospitality. Established with the goal of creating memorable dining experiences, Java Foods is your go-to destination for a delightful culinary journey.</p>
+            <p>Welcome to TUNTUN Foods, where we bring together a love for fresh, delicious meals and a passion for hospitality. Established with the goal of creating memorable dining experiences, Java Foods is your go-to destination for a delightful culinary journey.</p>
             <p>Our team is committed to using the finest ingredients to prepare dishes that reflect authenticity and innovation. Whether you're here for a hearty meal, a light snack, or a sweet treat, our menu is designed to cater to every craving.</p>
             <p>We take pride in our warm and inviting atmosphere, perfect for family gatherings, friendly get-togethers, or a quiet meal on your own. At Java Foods, we believe food is more than just sustenance—it's an experience, and we are thrilled to share it with you.</p>
         </div>
     </section>
     <footer>
-        <p>&copy;SUPERSTAR Foods. All Rights Reserved.</p>
+        <p>&copy;TUNTUN Foods. All Right Reserved.</p>
         <p> designed and developed by:SHREE CHANDRU R</p>
     </footer>
 </body>
@@ -509,14 +513,13 @@ about.html
 
 
 
+
 ```
 ## OUTPUT:
-
-![alt text](<Screenshot (23).png>)
-![alt text](<Screenshot (24).png>)
-![alt text](<Screenshot (25).png>)
-![alt text](<Screenshot (26).png>)
-
+![alt text](<Screenshot (2).png>)
+![alt text](<Screenshot (3).png>)
+![alt text](<Screenshot (5).png>)
+![alt text](<Screenshot (6).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
